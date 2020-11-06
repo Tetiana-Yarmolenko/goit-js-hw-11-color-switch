@@ -37,4 +37,3 @@ function colorBgChange() {
   const colorIndex = randomIntegerFromInterval(0, colors.length - 1);
   body.style.backgroundColor = colors[colorIndex];
 };
-
